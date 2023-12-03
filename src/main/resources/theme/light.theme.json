@@ -1,7 +1,7 @@
 {
   "author": "Serhii Uvarov",
   "dark": false,
-  "name": "Light theme",
+  "name": "Gray/Green/Dark",
   "editorScheme": "/theme/editor.scheme.xml",
   "colors": {
     "lightgray": "#e0e0e0"
