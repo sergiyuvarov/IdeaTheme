@@ -1,0 +1,27 @@
+{
+  "author": "Serhii Uvarov",
+  "dark": false,
+  "name": "Light theme",
+  "editorScheme": "/theme/editor.scheme.xml",
+  "colors": {
+    "lightgray": "#e0e0e0"
+  },
+
+  "ui": {
+
+    "Button": {
+    },
+    "List": {
+      "background": "lightgray"
+    },
+    "Tree": {
+      "background": "lightgray"
+    },
+    "ToolWindow": {
+      "background": "lightgray"
+    },
+    "Viewport": {
+      "background": "lightgray"
+    }
+  }
+}
