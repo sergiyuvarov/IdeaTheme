@@ -2,7 +2,7 @@
 <idea-plugin>
     <id>com.suva.jetbrains.theme.ggd</id>
     <name>Gray/Green/Dark</name>
-    <version>0.0.1</version>
+    <version>0.0.7</version>
     <vendor>Sergiy Uvarov</vendor>
 
     <depends>com.intellij.modules.platform</depends>
